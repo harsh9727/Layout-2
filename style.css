@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .company {
+    height: 70px;
+    background-color: grey;
+    margin-top: 30px;
+  }
+  
+  .header {
+    height: 120px;
+    background-color: grey;
+    margin-top: 15px;
+  }
+  
+  .nav {
+    display: flex;
+    height: 45px;
+    margin-top: 15px;
+  }
+  
+  #one,
+  #two,
+  #three,
+  #four {
+    background-color: grey;
+  }
+  
+  #one,
+  #two,
+  #three {
+    margin-right: 15px;
+  }
+  
+  .main {
+    display: flex;
+    margin-top: 15px;
+    height: 210px;
+  }
+  
+  .about {
+    background-color: gray;
+    margin-right: 15px;
+  }
+  
+  .quicklinks {
+    height: 85px;
+    background-color: grey;
+  }
+  
+  .quicklinks1 {
+    height: 110px;
+    background-color: grey;
+    margin-top: 15px;
+  }
+  
+  .site{
+      height: 120px;  background-color: grey;
+      margin-top: 15px;
+  }
